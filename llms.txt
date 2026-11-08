@@ -24,6 +24,9 @@
 - [Top Plumber Az in Scottsdale](https://local-business-guides.github.io/johnson-family-plumber-and-hvac-scottsdale/top-plumber-az-in-scottsdale/): Looking for a Top Plumber Az in Scottsdale? Get clear next steps for plumbing repairs and installation. Call Johnson Family Plumber & HVAC today.
 - [Licensed Plumber Az Scottsdale](https://local-business-guides.github.io/johnson-family-plumber-and-hvac-scottsdale/licensed-plumber-az-scottsdale/): Need a Licensed Plumber Az Scottsdale homeowners can call? Get help with plumbing repairs and installation in Scottsdale. Call Johnson Family Plumber & HVAC t
 
+## Newsroom
+- [Johnson Family Plumber & HVAC Shares Scottsdale Plumbing Guide](https://local-business-guides.github.io/johnson-family-plumber-and-hvac-scottsdale/news/2026-11-08-johnson-family-plumber-hvac-shares-scottsdale/): Johnson Family Plumber & HVAC published a guide to Plumber In Scottsdale AZ, with related video, podcast and audio versions. (2026-11-08)
+
 ## Pages
 - [Plumber in Scottsdale, Arizona](https://local-business-guides.github.io/johnson-family-plumber-and-hvac-scottsdale/): Get plumbing and heating or cooling help from a local team serving Scottsdale, with service available around the clock. Call +1623-220-5400.
 - [About Johnson Family Plumber & HVAC](https://local-business-guides.github.io/johnson-family-plumber-and-hvac-scottsdale/about/): About Johnson Family Plumber & HVAC, Scottsdale.
@@ -31,4 +34,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/johnson-family-plumber-and-hvac-scottsdale/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/johnson-family-plumber-and-hvac-scottsdale/news/rss.xml)
 - [Main resource site](https://johnson-family-scottsdale.localbusinesses1.chatgpt.site)
